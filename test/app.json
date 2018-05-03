@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "test",
+    "slug": "test",
+    "sdkVersion": "27.0.0",
+    "privacy" : "public",
+    "assetBundlePatterns": [
+      "./source/Images/*"
+    ]
+  }
+}
